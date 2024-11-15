@@ -13,7 +13,7 @@ const Home = () => {
           height={80}
           className="mx-auto lg:mx-0"
         />
-        <p className="mt-4 lg:ml-8 lg:mt-2 text-center lg:text-left">
+        <p className="mx-auto mt-4 lg:ml-8 lg:mt-2 text-center lg:text-left">
           Facebook helps you connect and share with the people in your life.
         </p>
       </div>
